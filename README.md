@@ -44,5 +44,5 @@ Also: **[ncbi-bioscraper](https://github.com/crisprking/ncbi-bioscraper)** (zero
 ## Elsewhere
 
 - GitHub — [@crisprking](https://github.com/crisprking)
-- Write-ups — *add your Substack URL here*
-- X — *add your handle here*
+- Write-ups — https://crisprking.substack.com/
+- X — @CRISPRKING
